@@ -21,7 +21,7 @@ I am a native Vietnamese speaker, and a bilingual English speaker. Besides that,
 
 I love to play video games, especially ones with rich story and interesting world buildings. I also love to binge video essays on them after finishing the game. My favorite of these games is: [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)
 
-Apart from games, I also like to read dystopian novel like 1984, Brave New World, Fahrenheit 451, The Handmaid's Tale, ... as well as classics like Animal Farm, Lord of the Flies, Do Androids dream of Electric sheep. 📚
+Apart from games, I also like to read dystopian novels like 1984, Brave New World, Fahrenheit 451, The Handmaid's Tale, ... as well as classics like Animal Farm, Lord of the Flies, Do Androids dream of Electric sheep. 📚
 
 Eating is also something I really enjoy, so cooking good food is also one of my few hobbies!
 

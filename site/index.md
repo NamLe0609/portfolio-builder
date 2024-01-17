@@ -1,6 +1,6 @@
 # Home
 
-I’m Nam Le, a Computer Science student at [Durham University](https://www.durham.ac.uk/). I came to the UK from Vietnam around 7 years ago, and have been living here ever since.
+Hi, I’m Nam Le, a Computer Science student at [Durham University](https://www.durham.ac.uk/). I came to the UK from Vietnam around 7 years ago, and have been living here ever since.
 
 <figure style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <img src="/images/self_image.jpg" alt="Image of me in Iceland" width="350px" height="350px">
