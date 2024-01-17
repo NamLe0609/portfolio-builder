@@ -7,7 +7,7 @@
 --
 -- [widgets.reading-time]
 --   widget = "reading_time"
---   reading_speed = 350
+--   reading_speed = 300
 --
 --   # Where to insert the reading time estimate
 --   selector = "span#reading-time"
