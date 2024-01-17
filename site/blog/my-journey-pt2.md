@@ -3,7 +3,7 @@
   <post-date>2024-01-18</post-date>
 </post-metadata>
 
-This is part two of my 3-part article going through my journey, and how I got to where I am at now. If you haven't read part 1, check it out here: [Part 1](/blog/my-journey-pt1)
+This is part two of my 3-part article going through my journey, and how I got to where I am at now. If you haven't read it, check it out here: [Part 1](/blog/my-journey-pt1)
 
 During my A-levels, I remember applying my knowledge for the EPQ, making fake popular websites like Amazon and Google to write about cybersecurity.
 As I took Computing, I was forced to learn Java, which finally allowed me to understand what OOP was like (Though I hated writing code in Java).

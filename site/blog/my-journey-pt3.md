@@ -3,8 +3,8 @@
   <post-date>2024-01-19</post-date>
 </post-metadata>
 
-This is part three of my 3-part article going through my journey, and how I got to where I am at now. If you have read neither part 1 nor part 2, check them out here: [Part 1](/blog/my-journey-pt1)
-and [Part 2](/blog/my-journey-pt2)
+This is part three of my 3-part article going through my journey, and how I got to where I am at now. If you have read neither, check them out here: [Part 1](/blog/my-journey-pt1), 
+[Part 2](/blog/my-journey-pt2)
 
 In the summer of this year, I interned at a Vietnamese company as a web dev intern and while the work was fun, I got to learn an entire webstack with tools I have never even seen before, I found that 
 it wasn't something I really enjoyed. More specifically, I did not mind doing backed and the infrastructure, but anything involved with frontend was hell for me 
