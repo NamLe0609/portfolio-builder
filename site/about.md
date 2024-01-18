@@ -26,6 +26,6 @@ Apart from games, I also like to read dystopian novels like 1984, Brave New Worl
 Eating is also something I really enjoy, so cooking good food is also one of my few hobbies!
 
 <figure style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-  <img src="/images/curry.jpg" alt="Image of a bowl of curry I cooked">
+  <img src="/images/curry.webp" alt="Image of a bowl of curry I cooked">
   <figcaption><i>Hey look, I cooked that</i></figcaption>
 </figure>
