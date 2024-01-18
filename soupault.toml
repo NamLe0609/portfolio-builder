@@ -53,9 +53,9 @@
   # site_url = "https://www.example.com/~jrandomhacker"
 
   # Optional but strongly recommended:
-  # site_author = "J. Random Hacker"
-  # site_author_email = "jrandomhacker@example.com"
-  # site_title = "My website"
+  site_author = "Nam H. Le"
+  site_author_email = "lehoangnamtep@gmail.com"
+  site_title = "Nam Le's Personal Website"
   # site_logo = "https://example.com/~jrandomhacker/favicon.png"
 
   # Completely optional: 
@@ -149,8 +149,8 @@
   after = 'make-post-header'
 
   selector = ["#page-title", "h1"]
-  default = "Sample site"
-  append = " &mdash; Sample site"
+  default = "Nam Le's Personal Website"
+  append = " &mdash; Nam Le's Personal Website"
 
 # Inserts the contents of templates/header.html right before the <main> element
 # There's a variety of actions, including prepend_child and replace_content
