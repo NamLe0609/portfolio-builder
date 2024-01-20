@@ -6,6 +6,6 @@
 #    that is where we will look for package.json/.nvmrc/etc not repo root!
 
 [build]
-  #base    = ""
-  publish = "build/"
+  #base    = "../namle0609.github.io"
+  publish = "../namle0609.github.io"
   command = "./netlify.sh"
