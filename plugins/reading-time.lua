@@ -24,8 +24,8 @@ selector = config["selector"]
 content_selector = config["content_selector"]
 
 if (not reading_speed) then
-  Log.warning("Missing option \"reading_speed\", using default (300 WPM)")
-  reading_speed = 300
+  Log.warning("Missing option \"reading_speed\", using default (200 WPM)")
+  reading_speed = 200
 end
 
 if (not selector) then
